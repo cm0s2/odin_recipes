@@ -1,0 +1,20 @@
+h1, h2 {
+    font-family: 'Inter', sans-serif;
+    color: #e63946;
+    font-weight: 800;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+a, p, li {
+    font-family: 'Inter', sans-serif;
+    font-size: 18;
+    color: #457b9d;
+}
+
+body {
+    background-color: #f1faee;
+}
